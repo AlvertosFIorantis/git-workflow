@@ -83,6 +83,8 @@ if i want to see visually how the git workflow looks like
 
 ### git log --oneline --decorate --graph --all
 
+Now that i have pushed all my changes to the branch that i am working on and i am about to do a pull request on the master it is better to make sure that i dont have any conflcits with the master before starting the pull request. Lets say that someone has made changes to the master that i dont have locally
+
 ## Squash commits
 
 ## Git rebase
