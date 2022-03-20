@@ -85,6 +85,27 @@ if i want to see visually how the git workflow looks like
 
 Now that i have pushed all my changes to the branch that i am working on and i am about to do a pull request on the master it is better to make sure that i dont have any conflcits with the master before starting the pull request. Lets say that someone has made changes to the master that i dont have locally
 
+i will do a
+
+### git fetch -- all
+
+then
+
+### git merge origin/master
+
+### git status
+
+to see the files that have the conflcit and start resolving the conflicts 1 by 1 in each file after fixing the conflicts to each file
+i will stage the file with
+
+git add name_of_file
+
+once i am done i have to do a commite
+
+### git commit -m "commit message"
+
+then i am readly to push my changes to development branch and open a pull request to the master
+
 ## Squash commits
 
 ## Git rebase
