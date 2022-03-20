@@ -73,6 +73,16 @@ or
 
 ### grep -H -r "<<<<<<< HEAD" .
 
+once we are 100% sure that there are no extra conflicts we can just use the
+
+## git commit -m "fixing the conflicts"
+
+Once you are sure that you are not any conflict between the branch you are working on and the remote branch it is also a good practice to make sure that there are no conflcits between your branch and the master before subiting a pull reuqest
+
+if i want to see visually how the git workflow looks like
+
+### git log --oneline --decorate --graph --all
+
 ## Squash commits
 
 ## Git rebase
