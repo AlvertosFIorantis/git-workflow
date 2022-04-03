@@ -6,7 +6,11 @@ Assume that changes have been made by other users to the development branch (the
 
 I then commit of my local changes
 
-Note better to use git add -A instead of git add .
+### Note better to use git add -A instead of git add .
+
+then 
+
+### git commit -m "commit message"
 
 then i want to fetch all the changes. It is better if i dont use pull cause the merge process will start automatically.
 
