@@ -1,4 +1,4 @@
-print("hello local local loadadcal")
+print("hello local remote ")
 print("hello local local")
 print("hello master")
 print("hello local")
