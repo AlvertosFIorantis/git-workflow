@@ -108,7 +108,7 @@ once i am done i have to do a commite
 
 ### git commit -m "commit message"
 
-then i am readly to push my changes to development branch and open a pull request to the master
+#### then i am readly to push my changes to development branch and open a pull request to the master
 
 ## Squash commits
 
