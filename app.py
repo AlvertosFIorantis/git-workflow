@@ -82,8 +82,4 @@ print("hello local")
 print("hello local")
 print("hello local")
 print("hello local")
-<<<<<<< HEAD
 print("hello local local local")
-=======
-print("hello remote remomte")
->>>>>>> origin/development
